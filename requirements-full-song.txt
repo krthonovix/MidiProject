@@ -1,0 +1,5 @@
+# Install this extra with Python 3.10 or 3.11 for the full_song reduction mode.
+# Basic Pitch currently pins TensorFlow versions that do not support Python 3.13.
+-r requirements.txt
+basic-pitch>=0.3.0
+pydub==0.25.1
