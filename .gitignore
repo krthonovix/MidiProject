@@ -1,0 +1,17 @@
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# User audio, generated MIDI/video, and local analysis artifacts.
+uploads/
+output/
+temp_stems/
+test_samples/
+
+# Local editor and OS files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
